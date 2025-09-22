@@ -34,6 +34,7 @@ export default function App() {
   const [needleContext, setNeedleContext] = createSignal<Context | null>(null);
 
   onMount(() => {});
+
   onStart((context) => {
     setNeedleContext(context);
     const scene = context.scene;

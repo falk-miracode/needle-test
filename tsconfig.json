@@ -15,9 +15,9 @@
     "noImplicitReturns": true,
     "noImplicitAny": false,
     "experimentalDecorators": true,
-  "skipLibCheck": true,
-  "jsx": "preserve",
-  "jsxImportSource": "solid-js"
+    "skipLibCheck": true,
+    "jsx": "preserve",
+    "jsxImportSource": "solid-js"
   },
   "include": ["./src"]
 }
